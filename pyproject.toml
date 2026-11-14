@@ -1,7 +1,7 @@
 [project]
 name = "fubs"
 version = "0.1.0"
-description = "Add your description here"
+description = "Fila virtual para Unidades Básicas de Saúde: senha online, acompanhamento da posição e controle de prioridades pela recepção"
 readme = "README.md"
 authors = [
     { name = "Matheus Braga", email = "sbmatheus20@gmail.com" }
